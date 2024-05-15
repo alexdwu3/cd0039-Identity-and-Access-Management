@@ -60,7 +60,7 @@ class Drink(db.Model):
 
     '''
     short()
-        short form representation of the Drink model
+        short form representation of the 
     '''
 
     def short(self):

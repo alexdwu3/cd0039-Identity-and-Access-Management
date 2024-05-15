@@ -1,4 +1,5 @@
 venv/
+../../../../../../backenv/
 .vscode/
 __pycache__/
 test.db
